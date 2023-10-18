@@ -1,6 +1,6 @@
 Cara install DBeaver
 
-1. Download Installer nya : [link](https://dbeaver.io/download/)
+1. Download DBeaver installer : [link](https://dbeaver.io/download/)
 2. Download sesuai OS yang digunakan
 3. Buka file yang sudah didownload
 4. Klik next
