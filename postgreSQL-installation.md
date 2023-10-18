@@ -1,4 +1,4 @@
-1. Download installer : [link](https://www.postgresql.org/download/)
+1. Download PostgreSQL installer : [link](https://www.postgresql.org/download/)
 2. Download sesuai OS yang digunakan
 3. Klik next
 4. Pilih path installasi dan klik next
